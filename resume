@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Resume - Gollapalli Hare Rama Saicharan</title>
+  <style>
+    body {
+      font-family: 'Times New Roman', serif;
+      color: #000;
+      background: #fff;
+      margin: 40px;
+      line-height: 1.5;
+    }
+    h1 {
+      font-size: 22px;
+      text-align: center;
+      margin-bottom: 5px;
+    }
+    .contact {
+      text-align: center;
+      font-size: 12px;
+      margin-bottom: 20px;
+    }
+    .section {
+      margin-bottom: 18px;
+    }
+    .section-title {
+      font-size: 14px;
+      font-weight: bold;
+      border-bottom: 1px solid #000;
+      margin-bottom: 6px;
+      text-transform: uppercase;
+    }
+    .item {
+      margin-bottom: 10px;
+    }
+    .meta {
+      display: flex;
+      justify-content: space-between;
+      font-size: 13px;
+    }
+    ul {
+      margin: 4px 0 8px 18px;
+      font-size: 13px;
+    }
+    .small {
+      font-size: 12px;
+    }
+    a {
+      color: #000;
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>GOLLAPALLI HARE RAMA SAICHARAN</h1>
+  <div class="contact">
+    +91-8247509925 · saicharangollapalli0@gmail.com · 
+    <a href="https://www.linkedin.com/in/saicharan-gollapalli-01b091336/" target="_blank">LinkedIn</a>
+  </div>
+
+  <!-- Education -->
+  <div class="section">
+    <div class="section-title">Education</div>
+    <div class="item">
+      <div class="meta">
+        <div><b>Sir C R Reddy College of Engineering</b><br>Bachelor of Technology, Computer Science</div>
+        <div>July 2024 – May 2028</div>
+      </div>
+    </div>
+    <div class="item">
+      <div class="meta">
+        <div><b>Sri Chaitanya Junior College</b><br>MPC</div>
+        <div>May 2022 – Apr 2024</div>
+      </div>
+    </div>
+    <div class="item">
+      <div class="meta">
+        <div><b>Siddhartha E.M School</b><br>SSC</div>
+        <div>May 2022</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Projects -->
+  <div class="section">
+    <div class="section-title">Projects</div>
+    <div class="item">
+      <b><a href=" https://saicharangit-3.github.io/my_portfolio/" target="_blank">Personal Portfolio Website</a></b> – HTML, CSS, React, JavaScript <span class="small">(Jan 2024 – Mar 2024)</span>
+      <ul>
+        <li>Developed a responsive portfolio to showcase academic and personal projects.</li>
+        <li>Implemented form validation and interactive UI components using React and JavaScript.</li>
+      </ul>
+    </div>
+    <div class="item">
+      <b><a href="https://saicharangit-3.github.io/profit_calculator/" target="_blank">Profit Calculator App</a></b> – React, Tailwind CSS, JavaScript <span class="small">(May 2024)</span>
+      <ul>
+        <li>Originally built in C++, later converted into a JavaScript-based bilingual app.</li>
+        <li>Designed with Tailwind CSS for styling and React for interactive functionality.</li>
+      </ul>
+    </div>
+    <div class="item">
+      <b><a href="https://queuemate-6dded.web.app" target="_blank">Q Mate</a></b> – Smart Queue Management System <span class="small">(Ongoing)</span>
+      <ul>
+        <li>Created a smart digital token system where users scan a QR code to get a token and track their status.</li>
+        <li>Integrated Firebase for real-time databases and used Figma for UI prototyping.</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- Technical Skills -->
+  <div class="section">
+    <div class="section-title">Technical Skills</div>
+    <div class="item small">
+      <b>Programming:</b> JavaScript, Python, C, C++, SQL, OOP, DBMS, OS, CN, React<br>
+      <b>Web & Tools:</b> HTML, CSS, Tailwind CSS, Firebase, Git, GitHub, VS Code, Figma<br>
+      <b>Productivity:</b> MS Word, PowerPoint, MacOS<br>
+      <b>Domains:</b> Web Development, Data Structures & Algorithms, Problem Solving<br>
+      <b>Soft Skills:</b> Innovation, Team Collaboration, Communication (Telugu, Hindi, English), Documentation, Presentation Skills
+    </div>
+  </div>
+
+  <!-- Key Courses -->
+  <div class="section">
+    <div class="section-title">Key Courses Taken</div>
+    <div class="item small">
+      Programming & Design: Python, JavaScript, HTML, CSS, Java,OOP<br>
+      Coursera: Frontend Technologies, AWS, Machine Learning
+    </div>
+  </div>
+
+  <!-- Certifications -->
+  <div class="section">
+    <div class="section-title">Certifications & Achievements</div>
+    <ul class="small">
+      <li><a href="https://www.coursera.org/account/accomplishments/verify/IKHM7W0WLCT8" target="_blank">JavaScript Certification</a> – Coursera</li>
+      <li><a href="#" target="_blank">Python Certification</a> – SoloLearn</li>
+      <li>Selected for Smart India Hackathon</li>
+      <li>Participated in National Level Hackathon – Computer Science Branch</li>
+    </ul>
+  </div>
+
+</body>
+</html>
